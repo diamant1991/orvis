@@ -1,0 +1,68 @@
+.rate-table {
+    display: table;
+    width: 790px;
+    padding: 35px 0 40px 0;
+    border: 1px solid #000;
+}
+.rate-table .row {
+    display: table-row;
+}
+.rate-table .rate-header div {
+    padding: 0 0 40px 0;
+}
+.rate-table .row div {
+    display: table-cell;
+    border-right: 2px solid #000;
+    text-align: center;
+}
+.rate-table .row div span {
+    font-size: 21px;
+    font-family: Arial;
+}
+.rate-table .row div:last-child {
+    border: none;
+}
+.rate-table .rate-body .row div {
+    padding: 0 0 15px 0;
+}
+.rate-table .rate-body .row span {
+    display: block;
+    padding: 0 0 12px 0;
+    margin: 0 auto;
+    border-bottom: 2px solid #000;
+}
+.rate-table .rate-body .row:last-child span,
+.rate-table .rate-body .row:last-child .rate-action span {
+    border: none;
+}
+.rate-table .rate-body .row:last-child div {
+    padding: 0;
+}
+.rate-table .rate-body .row .rate-type span {
+    width:45%;
+}
+.rate-table .rate-body .row .rate-price span {
+    width:60%;
+}
+.rate-table .rate-body .row .rate-action span {
+    width:60%;
+    border-bottom: 2px solid #ffa34a;
+}
+.rate-type {
+    width: 322px;
+}
+.rate-price {
+    width: 240px;
+}
+.rate-action {
+    color: #ffa34a;
+    width: 225px;
+}
+.rate-text {
+    color: #ffa34a;
+    font-size: 21px;
+    font-family: Arial;
+    display: block;
+    width:790px;
+    margin: 10px 0;
+}

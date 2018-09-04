@@ -1,0 +1,18 @@
+@font-face {
+font-family: 'Circe';
+font-style: normal;
+font-weight: 300;
+src: local('Circe Light'), url('CRC35.woff') format('woff');
+}
+@font-face {
+font-family: 'Circe';
+font-style: normal;
+font-weight: 400;
+src: local('Circe'), url('CRC55.woff') format('woff');
+}
+@font-face {
+font-family: 'Circe';
+font-style: normal;
+font-weight: 700;
+src: local('Circe Bold'), url('CRC65.woff') format('woff');
+}
