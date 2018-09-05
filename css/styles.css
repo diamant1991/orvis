@@ -2657,7 +2657,7 @@ font.errortext{color:red;text-align: center;display: block;}
 
 /*Ð¸ÐºÐ¾Ð½ÐºÐ° new Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ*/
 .img-new::after {
-    content: url('/local/templates/atmosfera/images/new_icon.png');
+    content: url('../images/new_icon.png');
     position: absolute;
     top: 20px;
     right: 20px;
