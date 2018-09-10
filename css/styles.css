@@ -2730,7 +2730,7 @@ border-bottom-right-radius: 20px;
 }
 .bx-breadcrumb .bx-breadcrumb-item a {border-bottom: none;}
 .bx-breadcrumb .bx-breadcrumb-item a:after{
-    content: " â€º"
+    content: "›"
 }
 .bx-breadcrumb .bx-breadcrumb-item a:hover {}
 /* End */
